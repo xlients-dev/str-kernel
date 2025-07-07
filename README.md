@@ -1,4 +1,7 @@
 # satrio-kernel
+
+![str-kernel](img/main.jpg)
+
 Satrio kernel, a bare bones based operating system that is compiled and created by ourselves.
 
 Simple operating system kernel created with C and Assembly language.
